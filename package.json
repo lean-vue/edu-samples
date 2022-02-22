@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "samples/*"
+  ],
+  "scripts": {}
+}
