@@ -2,5 +2,8 @@
   "workspaces": [
     "samples/*"
   ],
-  "scripts": {}
+  "scripts": {
+    "slots": "npm run dev -w slots",
+    "twb": "npm run dev -w two-way-binding"
+  }
 }
